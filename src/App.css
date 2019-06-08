@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.contenedor{
+  background-color:orangered;
+}
+
+.HeladoLocal{
+  background-color: brown;
+}
+
+
+.DetalleHelado{
+  background-color:crimson(85, 85, 216);
+}
+
+.PrecioHelado{
+  background-color: gold;
+  font-size:30px;
+	color:crimson;
+	font-family: 'Times New Roman', Times, serif
+}
